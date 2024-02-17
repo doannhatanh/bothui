@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bothui/static/css/main.6f0b7f62.chunk.css",
+    "main.js": "/bothui/static/js/main.af1a5ba8.chunk.js",
+    "main.js.map": "/bothui/static/js/main.af1a5ba8.chunk.js.map",
+    "runtime-main.js": "/bothui/static/js/runtime-main.4327e957.js",
+    "runtime-main.js.map": "/bothui/static/js/runtime-main.4327e957.js.map",
+    "static/css/2.ec02d681.chunk.css": "/bothui/static/css/2.ec02d681.chunk.css",
+    "static/js/2.a5eea187.chunk.js": "/bothui/static/js/2.a5eea187.chunk.js",
+    "static/js/2.a5eea187.chunk.js.map": "/bothui/static/js/2.a5eea187.chunk.js.map",
+    "static/js/3.3d64670b.chunk.js": "/bothui/static/js/3.3d64670b.chunk.js",
+    "static/js/3.3d64670b.chunk.js.map": "/bothui/static/js/3.3d64670b.chunk.js.map",
+    "index.html": "/bothui/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/bothui/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.6f0b7f62.chunk.css.map": "/bothui/static/css/main.6f0b7f62.chunk.css.map",
+    "static/js/2.a5eea187.chunk.js.LICENSE.txt": "/bothui/static/js/2.a5eea187.chunk.js.LICENSE.txt",
+    "static/media/Couple.css": "/bothui/static/media/FB_IMG_1691921104404.275dc5e5.jpg",
+    "static/media/Wedding.css": "/bothui/static/media/IMG_20230815_221427.10218493.jpg",
+    "static/media/Bridge.css": "/bothui/static/media/IMG_20240212_162927.d052aa40.jpg",
+    "static/media/Grom.css": "/bothui/static/media/IMG_3220_cropped.d544a055.png",
+    "static/media/Home.css": "/bothui/static/media/z5163207503258_4c40ca8cb380bac071250ebb1ef1dd3d.001afb43.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4327e957.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.a5eea187.chunk.js",
+    "static/css/main.6f0b7f62.chunk.css",
+    "static/js/main.af1a5ba8.chunk.js"
+  ]
+}
